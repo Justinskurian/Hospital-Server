@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "City Hospital",
+    "location": "Trivandrum",
+    "patients": 756
+  },
+  {
+    "id": 2,
+    "name": "Viswa Hospital",
+    "location": "Trivandrum",
+    "patients": 310
+  },
+  {
+    "id": 3,
+    "name": "Appukkuttan Memorial Hospital",
+    "location": "Calicut",
+    "patients": 146
+  },
+  {
+    "id": 4,
+    "name": "Fathima Hospital",
+    "location": "Kannur",
+    "patients": 467
+  },
+  {
+    "id": 5,
+    "name": "KKR Hospital",
+    "location": "Kollam",
+    "patients": 97
+  }
+]
